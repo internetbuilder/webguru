@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "rxjs": "6.6.3",
-    "jszip": "3.6.0",
+    "jszip": "3.8.0",
     "tslib": "2.1.0",
     "core-js": "2.6.12",
     "zone.js": "0.10.3",
